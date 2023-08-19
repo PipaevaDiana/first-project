@@ -67,7 +67,7 @@ header {
     letter-spacing: 1.5px;
 }
 
-.tittle-text{
+.header-tittle-text{
     font-size: 90px;
     font-weight: bold;
     color: #fff;
@@ -121,6 +121,12 @@ header {
     letter-spacing: 1.5px;
 }
 
+.audio-block{
+    background-color: #242424;
+    margin-top: 61px;
+    display: flex;
+}
+
 .audio-container{
     display: flex;
     justify-content: center;
@@ -155,6 +161,14 @@ header {
     font-weight: bold;
     color: #fff;
     margin-top: 15px;
+}
+
+.about-subtittle{
+    font-size: 13px;
+    font-weight: bold;
+    color: #8C8C8c;
+    text-align: center;
+    letter-spacing: 1.5px;
 }
 
 
