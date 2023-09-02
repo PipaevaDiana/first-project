@@ -26,7 +26,7 @@ wavesurfer.init({
 
 
 //загружаем нужную песню
-wavesurfer.load("Three_Days_Grace_-_I_Hate_Everything_About_You_47958582(1).mp3");
+wavesurfer.load("music.mp3");
 
 //play and pause a player
 playPause.addEventListener("click", function (e) {
